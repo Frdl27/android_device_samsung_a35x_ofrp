@@ -31,7 +31,7 @@ OF_BIND_MOUNT_SDCARD_ON_FORMAT := 1
 OF_SPLASH_MAX_SIZE := 130
 
 # Custom pic for maintainers about section info
-OF_MAINTAINER := TegarArf_
+OF_MAINTAINER := Shinn_
 
 # OrangeFox GUI settings
 
